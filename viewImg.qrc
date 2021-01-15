@@ -1,0 +1,41 @@
+<RCC>
+  <qresource prefix="pics">
+    <file>vorctorIcon/浮动.png</file>
+    <file>vorctorIcon/高度.png</file>
+    <file>vorctorIcon/可见.png</file>
+    <file>vorctorIcon/宽度.png</file>
+    <file>vorctorIcon/退出.png</file>
+    <file>vorctorIcon/文件夹.png</file>
+    <file>vorctorIcon/favicon.ico</file>
+    <file>vorctorIcon/目录遍历.png</file>
+    <file>vorctorIcon/删除筛选项.png</file>
+    <file>vorctorIcon/delete.ico</file>
+    <file>vorctorIcon/exec.ico</file>
+    <file>vorctorIcon/exit.ico</file>
+    <file>vorctorIcon/floatBack.ico</file>
+    <file>vorctorIcon/floatFront.ico</file>
+    <file>vorctorIcon/mediaAdd.ico</file>
+    <file>vorctorIcon/mediaClear.ico</file>
+    <file>vorctorIcon/mediaNext.ico</file>
+    <file>vorctorIcon/mediaPause.ico</file>
+    <file>vorctorIcon/mediaPlay.ico</file>
+    <file>vorctorIcon/mediaPrevious.ico</file>
+    <file>vorctorIcon/mediaRemove.ico</file>
+    <file>vorctorIcon/mediaSelect.ico</file>
+    <file>vorctorIcon/mediaStop.ico</file>
+    <file>vorctorIcon/music.ico</file>
+    <file>vorctorIcon/newFile.ico</file>
+    <file>vorctorIcon/openFile.ico</file>
+    <file>vorctorIcon/openFolder.ico</file>
+    <file>vorctorIcon/record.ico</file>
+    <file>vorctorIcon/restore.ico</file>
+    <file>vorctorIcon/rotateLeft.ico</file>
+    <file>vorctorIcon/rotateRight.ico</file>
+    <file>vorctorIcon/saveFile.ico</file>
+    <file>vorctorIcon/silence.ico</file>
+    <file>vorctorIcon/volume+.ico</file>
+    <file>vorctorIcon/volume++.ico</file>
+    <file>vorctorIcon/zoomIn.ico</file>
+    <file>vorctorIcon/zoomOut.ico</file>
+  </qresource>
+</RCC>
